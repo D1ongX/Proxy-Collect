@@ -1,0 +1,88 @@
+proxies:
+  - {"name":"剩余流量：NaN GB","type":"ss","server":"hk10.mmyjiedian.com","port":10010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"距离下次重置剩余：NaN 天","type":"ss","server":"hk10.mmyjiedian.com","port":10010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"套餐到期：1970-01-01","type":"ss","server":"hk10.mmyjiedian.com","port":10010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"官网","type":"ss","server":"hk10.mmyjiedian.com","port":10010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"秒秒云.me","type":"ss","server":"hk14.mmyjiedian.com","port":10014,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"秒秒云.com","type":"ss","server":"hk16.mmyjiedian.com","port":10016,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_1","type":"ss","server":"hk01.mmyjiedian.com","port":10001,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_2","type":"ss","server":"hk02.mmyjiedian.com","port":10002,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_3","type":"ss","server":"hk03.mmyjiedian.com","port":10003,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_4","type":"ss","server":"hk04.mmyjiedian.com","port":10004,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_5","type":"ss","server":"hk05.mmyjiedian.com","port":10005,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_6","type":"ss","server":"hk06.mmyjiedian.com","port":10006,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_7","type":"ss","server":"hk07.mmyjiedian.com","port":10007,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_8","type":"ss","server":"hk08.mmyjiedian.com","port":10008,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_9","type":"ss","server":"hk09.mmyjiedian.com","port":10009,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_10","type":"ss","server":"hk10.mmyjiedian.com","port":10010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_11","type":"ss","server":"hk11.mmyjiedian.com","port":10011,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_12","type":"ss","server":"hk12.mmyjiedian.com","port":10012,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_13","type":"ss","server":"hk13.mmyjiedian.com","port":10101,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_14","type":"ss","server":"hk14.mmyjiedian.com","port":10014,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_15","type":"ss","server":"hk15.mmyjiedian.com","port":10015,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_16","type":"ss","server":"hk16.mmyjiedian.com","port":10016,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_17","type":"ss","server":"hk17.mmyjiedian.com","port":10017,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇭🇰 Hong Kong_18","type":"ss","server":"hk18.mmyjiedian.com","port":10018,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_1","type":"ss","server":"jp01.mmyjiedian.com","port":30001,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_2","type":"ss","server":"jp02.mmyjiedian.com","port":30002,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_3","type":"ss","server":"jp03.mmyjiedian.com","port":30003,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_4","type":"ss","server":"jp04.mmyjiedian.com","port":30004,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_5","type":"ss","server":"jp05.mmyjiedian.com","port":30005,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_6","type":"ss","server":"jp06.mmyjiedian.com","port":30006,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_7","type":"ss","server":"jp07.mmyjiedian.com","port":30007,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_8","type":"ss","server":"jp08.mmyjiedian.com","port":30008,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_9","type":"ss","server":"jp09.mmyjiedian.com","port":30009,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_10","type":"ss","server":"jp10.mmyjiedian.com","port":30010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_11","type":"ss","server":"jp11.mmyjiedian.com","port":30011,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_12","type":"ss","server":"jp12.mmyjiedian.com","port":30012,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_13","type":"ss","server":"jp13.mmyjiedian.com","port":30013,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_14","type":"ss","server":"jp14.mmyjiedian.com","port":30014,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_15","type":"ss","server":"jp15.mmyjiedian.com","port":30015,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_16","type":"ss","server":"jp16.mmyjiedian.com","port":30016,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_17","type":"ss","server":"jp17.mmyjiedian.com","port":30017,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_18","type":"ss","server":"jp18.mmyjiedian.com","port":30018,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_19","type":"ss","server":"jp19.mmyjiedian.com","port":30019,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇵 Japan_20","type":"ss","server":"jp20.mmyjiedian.com","port":30020,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_01","type":"ss","server":"sg01.mmyjiedian.com","port":20001,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_02","type":"ss","server":"sg02.mmyjiedian.com","port":20002,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_03","type":"ss","server":"sg03.mmyjiedian.com","port":20003,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_04","type":"ss","server":"sg04.mmyjiedian.com","port":20004,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_05","type":"ss","server":"sg05.mmyjiedian.com","port":20005,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_06","type":"ss","server":"sg06.mmyjiedian.com","port":20006,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_07","type":"ss","server":"sg07.mmyjiedian.com","port":20007,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_08","type":"ss","server":"sg08.mmyjiedian.com","port":20008,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_09","type":"ss","server":"sg09.mmyjiedian.com","port":20009,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_10","type":"ss","server":"sg10.mmyjiedian.com","port":20010,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_11","type":"ss","server":"sg11.mmyjiedian.com","port":20011,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_12","type":"ss","server":"sg12.mmyjiedian.com","port":20012,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_13","type":"ss","server":"sg13.mmyjiedian.com","port":20013,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 Singapore_14","type":"ss","server":"sg14.mmyjiedian.com","port":20014,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_1","type":"ss","server":"us01.mmyjiedian.com","port":50001,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_2","type":"ss","server":"us02.mmyjiedian.com","port":50002,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_3","type":"ss","server":"us03.mmyjiedian.com","port":50003,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_4","type":"ss","server":"us04.mmyjiedian.com","port":50004,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_5","type":"ss","server":"us05.mmyjiedian.com","port":50005,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 United States_6","type":"ss","server":"us06.mmyjiedian.com","port":50006,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇹🇼 Taiwan_1","type":"ss","server":"tw01.mmyjiedian.com","port":40006,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇹🇼 Taiwan_2","type":"ss","server":"tw02.mmyjiedian.com","port":40007,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇹🇼 Taiwan_3","type":"ss","server":"tw03.mmyjiedian.com","port":40008,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇰🇷 韩国","type":"ss","server":"kr01.mmyjiedian.com","port":40004,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇻🇳 Vietnam_1","type":"ss","server":"vn01.mmyjiedian.com","port":40001,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇻🇳 Vietnam_2","type":"ss","server":"vn02.mmyjiedian.com","port":40002,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 英国","type":"ss","server":"gb01.mmyjiedian.com","port":40021,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇩🇪 德国","type":"ss","server":"de01.mmyjiedian.com","port":40022,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇷🇺 俄罗斯","type":"ss","server":"ru01.mmyjiedian.com","port":40027,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇷 法国","type":"ss","server":"fr01.mmyjiedian.com","port":40031,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇨🇦 加拿大","type":"ss","server":"ca01.mmyjiedian.com","port":40023,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 荷兰","type":"ss","server":"nl01.mmyjiedian.com","port":40024,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇦 乌克兰","type":"ss","server":"ua01.mmyjiedian.com","port":40030,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇪🇸 西班牙","type":"ss","server":"es01.mmyjiedian.com","port":40026,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇮🇳 印度","type":"ss","server":"in01.mmyjiedian.com","port":40020,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇹🇷 土耳其","type":"ss","server":"tr01.mmyjiedian.com","port":40028,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇦🇪 迪拜","type":"ss","server":"ae01.mmyjiedian.com","port":40029,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇮🇹 意大利","type":"ss","server":"it01.mmyjiedian.com","port":40025,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇹🇭 泰国","type":"ss","server":"th01.mmyjiedian.com","port":40032,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇮🇩 印尼","type":"ss","server":"id01.mmyjiedian.com","port":40033,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇪 瑞典","type":"ss","server":"se01.mmyjiedian.com","port":40050,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇦🇺 澳大利亚","type":"ss","server":"au01.mmyjiedian.com","port":40051,"password":"密码","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇧🇷 巴西","type":"ss","server":"br01.mmyjiedian.com","port":40052,"password":"密码","cipher":"chacha20-ietf-poly1305"}
