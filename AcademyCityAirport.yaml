@@ -1,0 +1,55 @@
+proxies:
+  - {"name":"剩余流量：NaN","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":45611,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"套餐到期：1970-01-01","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":45611,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 01","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":45611,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 02","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":14149,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 03","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10000,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 04","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10001,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 05","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10015,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 06","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10016,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 07","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10017,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong 08","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10018,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 01","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":19563,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 02","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":43641,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 03","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":28436,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 04","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":12994,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 05","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10019,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 06","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10020,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 07","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10021,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵 Japan 08","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10022,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 01","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":14337,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 02","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":43934,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 03","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10002,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 04","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10003,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 05","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10032,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 06","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10033,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 07","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10034,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 Singapore 08","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10035,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 Taiwan 01","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":50937,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 01","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":25818,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 02","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":28287,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 03","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10038,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 04","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10039,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 05","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10040,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 06","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10041,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 07","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10042,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States 08","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10043,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇬🇧 United Kingdom 01","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10013,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇬🇧 United Kingdom 02","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10014,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 Hong Kong | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10065,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇼 Taiwan | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10051,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 United States | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10049,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇬🇧 United Kingdom | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10069,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷 South Korea | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10053,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇳🇿 New Zealand | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10056,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇵🇰 Pakistan | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10059,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇨🇭 Switzerland | 家宽 3.0x","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10060,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇲🇴 Macao | 冷门","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10071,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇲🇾 Malaysia | 冷门","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10073,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇹🇷 Turkey | 冷门","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10005,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇦🇷 Argentina | 冷门","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10006,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇵 North Korea | 冷门","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10029,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇦🇶 Antarctica | 冷门","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10030,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇮🇸 Iceland | 冷门","type":"ss","server":"aca-cm-js-4g.cfprefer1.xyz","port":10031,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇳🇬 Nigeria | 冷门","type":"ss","server":"rhsdrhwa.cfprefer1.xyz","port":10037,"password":"密码","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US-Emby专用 0.01x","type":"ss","server":"dtjaswffgyjh.cfprefer1.xyz","port":39808,"password":"密码","cipher":"aes-256-gcm"}
