@@ -1,0 +1,17 @@
+proxies:
+  - {name: 官网：my.lwjyj.com, server: xiaonangua.lwjyj.com, port: 38521, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 电报群：@xiaonanguacloud, server: xiaonangua.lwjyj.com, port: 38521, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇺🇸 US 自由味道 🗽🍔 1.00x, server: xiaonangua.lwjyj.com, port: 32101, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇺🇸 US 飞鹰之力 🦅🏈  1.00x, server: xiaonangua.lwjyj.com, port: 32102, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 龙的秘密  🐉🏮 1.75x, server: xiaonangua.lwjyj.com, port: 38521, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 夜光幻影 🎆🌃 1.75x, server: xiaonangua.lwjyj.com, port: 38522, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 熊猫午餐 🐼🍜 1.75x, server: xiaonangua.lwjyj.com, port: 38523, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 渔舟唱晚 ☂️🛥 1.75x, server: xiaonangua.lwjyj.com, port: 38524, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 竹林深处 🎋🏞 1.75x, server: xiaonangua.lwjyj.com, port: 38525, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇭🇰 HK 鹦鹉天堂 🦜🏝 1.75x, server: xiaonangua.lwjyj.com, port: 38526, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇸🇬 SG 狮城冷饮 🦁🍹1.00x, server: xiaonangua.lwjyj.com, port: 32651, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇸🇬 SG 花园之城 🌺🌴 1.00x, server: xiaonangua.lwjyj.com, port: 32652, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇯🇵 JP 武士冷酒 🍶🗼1.00x, server: xiaonangua.lwjyj.com, port: 32811, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇯🇵 JP 樱花之城 🌸🏯 1.00x, server: xiaonangua.lwjyj.com, port: 32812, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇹🇼 TW 梦想启航 ⛵🌠 1.00x, server: xiaonangua.lwjyj.com, port: 38861, type: ss, cipher: aes-128-gcm, password: 密码}
+  - {name: 🇹🇼 TW 夜市之星 🌃🍜 1.00x, server: xiaonangua.lwjyj.com, port: 38862, type: ss, cipher: aes-128-gcm, password: 密码}
